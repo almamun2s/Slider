@@ -42,6 +42,8 @@
     color: #fff;
     font-size: 5rem;
 }
+/* 
+These item will be added by js
 .sr-slider-item:nth-child(1){
     left: 0;
     background-color: brown;
@@ -64,7 +66,7 @@
 }
 .sr-slider-item{
     transform: translateX(0);    
-}
+} */
 
 
 .sr-navigator{
